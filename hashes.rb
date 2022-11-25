@@ -9,7 +9,7 @@
 # p hashes2
 # p hashes2[:key]
 # 3.way with curly brackets {}
-hashes3={}
-hashes3[:"1234"]="string"
-puts hashes3
-puts hashes3[:"1234"]
+# hashes3={}
+# hashes3[:"1234"]="string"
+# puts hashes3
+# puts hashes3[:"1234"]
